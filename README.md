@@ -34,6 +34,7 @@
   <br><br>- 🔭 Изучаю Python, проходил курсы на платформе Stepik.<br>- 📚 Завершил курс "Тестирование ПО с нуля"от Artsiom Rusau!<br>- ⚡ Являюсь junior QA manual.</p>
 
 * 🌍  Проживаю в Нижнем Новгороде
+* 🖥️  Я на [HH](http://https://hh.ru/resume/030b7a04ff07d8155f0039ed1f564c6334636a)
 * ✉️  Со мной можно связаться по [andreev.petr.2805@yandex.ru](mailto:andreev.petr.2805@yandex.ru)
 * 🧠  На данный момент изучаю TEST AUTOMATION COURSE IN PYTHON
 
