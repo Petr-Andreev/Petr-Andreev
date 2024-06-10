@@ -36,6 +36,14 @@
 * ✉️  Со мной можно связаться по [andreev.petr.2805@yandex.ru](mailto:andreev.petr.2805@yandex.ru)
 * 🧠  На данный момент изучаю TEST AUTOMATION COURSE IN PYTHON
 
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
+
 <h3 align="left">🛠 Технологии:</h3>
 
 
