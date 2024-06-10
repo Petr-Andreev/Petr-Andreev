@@ -20,7 +20,7 @@
 * ✉️  Со мной можно связаться по [andreev.petr.2805@yandex.ru](mailto:andreev.petr.2805@yandex.ru)
 * 🧠  На данный момент изучаю TEST AUTOMATION COURSE IN PYTHON
 
-### Skills
+<h3 align="left">🛠 Технологии:</h3>
 
 
 <p align="left">
@@ -28,7 +28,7 @@
 </p>
 
 
-### Socials
+<h3 align="left"> Мои ссылки:</h3>
 
 <p align="left"> <a href="https://discord.com/users/ws_sto" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Pandreev28" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
