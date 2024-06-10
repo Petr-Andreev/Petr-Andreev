@@ -38,9 +38,9 @@
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<div align="center">
+  <img height="300" width="600" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNubW8wcThrYmFvODg3OGV1azdmbnRjeXJ3Z2toaXNrbWFhY3l3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij7ZUDifM6Vtr89MDf/giphy.gif"  />
+</div>
 
 ###
 
