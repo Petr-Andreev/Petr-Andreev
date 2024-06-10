@@ -1,5 +1,9 @@
+<br clear="both">
 
-<iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
+<div align="center">
+  <img height="300" width="600" src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZpNzZ6cHY5cmFpcGxycHVxNWtjNTFpMmJtaTUxeDRueXdsaXdqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif)"  />
+</div>
+
 ###
 
 <h1 align="center">Привет👋 Меня зовут Пётр!</h1>
