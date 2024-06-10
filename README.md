@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Petr-Andreev.Petr-Andreev&"  />
+  <img src="https://komarev.com/ghpvc/?username=Petr-Andreev&style=flat-square&color=blue" alt=""/>
 </div>
 
 ###
