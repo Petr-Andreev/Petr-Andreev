@@ -32,9 +32,6 @@
 
 <p align="left">Я начинающий QA engineer. Мой путь в it начался с бесплатных курсов на Stepik по Python. С октября 2023 по апрель 2024 года я начал работать ручным тестировщиком в отделе автоматизации, тестировал скрипты и микросервисы на работоспособность и баги. В апреле 2024 года я сменил должность на QA engineer manual, начал тестировать веб, заводить баги и улучшать качество внедряемого контента. В настоящее время я повышаю свои хард скиллы и изучаю Автоматизацию тестирования, чтобы начать писать и внедрять автотесты в своей работе.
   <br><br>- 🔭 Изучаю Python, проходил курсы на платформе Stepik.<br>- 📚 Завершил курс "Тестирование ПО с нуля"от Artsiom Rusau!<br>- ⚡ Являюсь junior QA manual.</p>
-* 🔭 Изучаю Python, проходил курсы на платформе Stepik.
-* 📚 Завершил курс ["Тестирование ПО с нуля"](https://stepik.org/course/171826/info) от Artsiom Rusau!
-* ⚡ Работаю junior QA manual
 
 * 🌍  Проживаю в Нижнем Новгороде
 * ✉️  Со мной можно связаться по [andreev.petr.2805@yandex.ru](mailto:andreev.petr.2805@yandex.ru)
@@ -69,6 +66,13 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Petr-Andreev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Petr-Andreev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Petr-Andreev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
