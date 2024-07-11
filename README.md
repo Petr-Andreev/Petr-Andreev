@@ -33,30 +33,35 @@
 <p align="left">Я начинающий QA engineer. Мой путь в it начался с бесплатных курсов на Stepik по Python. С октября 2023 по апрель 2024 года я начал работать ручным тестировщиком в отделе автоматизации, тестировал скрипты и микросервисы на работоспособность и баги. В апреле 2024 года я сменил должность на QA engineer manual, начал тестировать веб, заводить баги и улучшать качество внедряемого контента. В настоящее время я повышаю свои хард скиллы и изучаю Автоматизацию тестирования, чтобы начать писать и внедрять автотесты в своей работе.
   <br><br>- 🔭 Изучаю Python, проходил курсы на платформе Stepik.<br>- 📚 Завершил курс "Тестирование ПО с нуля"от Artsiom Rusau!<br>- ⚡ Являюсь junior QA manual.</p>
 
-<h3 align="left">👩‍💻  Основная информация</h3>
-###
-
-<p 
-* 🌍  Проживаю в Нижнем Новгороде
-* 🖥️  Профиль [HeadHunter](http://https://hh.ru/resume/030b7a04ff07d8155f0039ed1f564c6334636a)
-* ✉️  Со мной можно связаться по [andreev.petr.2805@yandex.ru](mailto:andreev.petr.2805@yandex.ru)
-* 🧠  На данный момент изучаю TEST AUTOMATION COURSE IN PYTHON </p>
-
-###
-
-
-
-<h3 align="left">🛠 Технологии:</h3>
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<details align="left">
+  <summary><h2><b>📚  Основная информация</b></h2></summary>
   
-</p>
+
+
+ 
+  * 🌍  Проживаю в Нижнем Новгороде
+  * 🖥️  Профиль [HeadHunter](http://https://hh.ru/resume/030b7a04ff07d8155f0039ed1f564c6334636a)
+  * ✉️  Со мной можно связаться по [andreev.petr.2805@yandex.ru](mailto:andreev.petr.2805@yandex.ru)
+  * 🧠  На данный момент изучаю TEST AUTOMATION COURSE IN PYTHON </p>
+</details>
+
+
+
+<details align="left">
+  <summary><h2><b>🛠 Технологии</b></h2></summary>
+
+  <h3>Langs</h3>
+  <p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <h3>Software</h3>
+  <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,docker,postman,ultimate&perline=7" />
+  
+  </p>
+</details>
 
 
 <h3 align="left"> Мой профиль в других проектах:</h3>
