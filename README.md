@@ -39,11 +39,7 @@
 * 🧠  На данный момент изучаю TEST AUTOMATION COURSE IN PYTHON
 
 ###
-## Watch snake eating my github contributions
 
-![snake gif](https://github.com/Petr-Andreev/Petr-Andreev/blob/output/github-contribution-grid-snake.gif)
-
-###
 
 
 <h3 align="left">🛠 Технологии:</h3>
