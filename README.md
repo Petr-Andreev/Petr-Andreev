@@ -36,8 +36,8 @@
 <h3 align="left">👩‍💻  Основная информация</h3>
 ###
 
-
-<p* 🌍  Проживаю в Нижнем Новгороде
+<p 
+* 🌍  Проживаю в Нижнем Новгороде
 * 🖥️  Профиль [HeadHunter](http://https://hh.ru/resume/030b7a04ff07d8155f0039ed1f564c6334636a)
 * ✉️  Со мной можно связаться по [andreev.petr.2805@yandex.ru](mailto:andreev.petr.2805@yandex.ru)
 * 🧠  На данный момент изучаю TEST AUTOMATION COURSE IN PYTHON </p>
